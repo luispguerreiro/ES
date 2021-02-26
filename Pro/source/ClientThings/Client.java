@@ -53,6 +53,7 @@ public class Client implements Runnable {
 			objectOutputStream.writeObject(message);
 			objectOutputStream.flush();
 			objectOutputStream.reset();
+			
 
 		} catch (IOException e) {
 			e.printStackTrace();
