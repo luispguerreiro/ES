@@ -1,12 +1,17 @@
 package ClientThings;
 
 import java.io.IOException;
+
+
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
 import java.util.List;
 
 import shared.Result;
+
+
+//Espero que resulte
 
 public class Client implements Runnable {
 	private Socket infoServerSocket;
