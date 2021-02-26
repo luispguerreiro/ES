@@ -54,6 +54,8 @@ public class Client implements Runnable {
 			objectOutputStream.flush();
 			objectOutputStream.reset();
 			
+			
+			//Testes
 
 		} catch (IOException e) {
 			e.printStackTrace();
