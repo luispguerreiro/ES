@@ -8,11 +8,11 @@ import java.io.ObjectOutputStream;
 import java.net.Socket;
 import java.util.List;
 
-import shared.Result;
+import shared.Result; 
 
-
+   
 //Espero que resulte
-
+//teste2ddsdfsdssss
 public class Client implements Runnable {
 	private Socket infoServerSocket;
 

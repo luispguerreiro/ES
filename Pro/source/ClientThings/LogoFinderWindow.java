@@ -37,7 +37,7 @@ import javax.swing.event.ListSelectionListener;
 import shared.ImageOperation;
 import shared.Join;
 import shared.Result;
-
+//sadasderr
 public class LogoFinderWindow {
 	private JFrame frame;
 
