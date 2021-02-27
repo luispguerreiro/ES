@@ -12,7 +12,7 @@ import shared.Result;
 
 
 //Espero que resulte
-//João
+//João 1
 
 public class Client implements Runnable {
 	private Socket infoServerSocket;
