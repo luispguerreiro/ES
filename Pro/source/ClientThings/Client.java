@@ -1,8 +1,6 @@
 package ClientThings;
 
 import java.io.IOException;
-
-
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
@@ -10,9 +8,13 @@ import java.util.List;
 
 import shared.Result;
 
-
+// Commit Nazif 2.1
 //Espero que resulte
+
 //João 1.0.3
+
+//oioio
+
 
 public class Client implements Runnable {
 	private Socket infoServerSocket;
@@ -82,6 +84,7 @@ public class Client implements Runnable {
 
 	@Override
 	public void run() {
+		
 		while (true) {
 			List<String> arrWorkers = (List<String>) receive();
 
