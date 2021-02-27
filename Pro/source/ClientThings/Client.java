@@ -6,11 +6,8 @@ import java.io.ObjectOutputStream;
 import java.net.Socket;
 import java.util.List;
 
-import shared.Result;
-
-// Commit Nazif 2.1
-//Espero que resulte
-//oioio
+import shared.Result; 
+//asdas
 
 public class Client implements Runnable {
 	private Socket infoServerSocket;
