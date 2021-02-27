@@ -41,7 +41,7 @@ import shared.Result;
 public class LogoFinderWindow {
 	private JFrame frame;
 
-	private JTextField imagens;
+	private JTextField imagens;   
 
 	private Client client;
 
