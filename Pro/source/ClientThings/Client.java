@@ -81,6 +81,7 @@ public class Client implements Runnable {
 
 	@Override
 	public void run() {
+		
 		while (true) {
 			List<String> arrWorkers = (List<String>) receive();
 
